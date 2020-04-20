@@ -23,8 +23,8 @@ PYTHON
   
 OPENMP
 
-  Write a simple program that prints hello world in C
-  Write a hello world program that makes use of OpenMP multithreading
+  1. Write a simple program that prints hello world in C
+  2. Write a hello world program that makes use of OpenMP multithreading
   Create a parallel version of a program that computes PI using OpenMP parallel construct
   Modify solution in Q2 to avoid false sharing
   Parallelise PI program using loop construct
