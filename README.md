@@ -1,10 +1,12 @@
 C++
+
   1. Dining philosopher problem
   2. Bounded buffer program
   3. Reader writer problem
   4. Sleeping barber
 
 JAVA
+
   1. WAPIJ to print main thread properties such as ID, name, status etc.
   2. WAPIJ to create and start additional thread extending Thread class 
   3. WAPIJ to create and start additional thread implementing Runnable interface
@@ -14,11 +16,13 @@ JAVA
   7. WAPIJ to repeat exercises six above with coarse and fine grained synchronization and observe and plot impact on speed. 
 
 PYTHON
+
   1. Simple Python Program
   2. Account Balance
   3. Priority Queue
   
 OPENMP
+
   1.1 WAP to print hello world in c
   1.2 Improve the program to make use of openmp multithreading
   2. Create a parallel version of a program that computes PI using OpenMP parallel construct
@@ -31,6 +35,7 @@ OPENMP
   9. Parallelise the Monte Carlo pi program
   
 CUDA
+
   1. Convert colour image to greyscale
   2. Parallel algorithm to blur images
   3. Parallel algorithm for tone mapping
