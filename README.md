@@ -25,14 +25,14 @@ OPENMP
 
   1. Write a simple program that prints hello world in C
   2. Write a hello world program that makes use of OpenMP multithreading
-  Create a parallel version of a program that computes PI using OpenMP parallel construct
-  Modify solution in Q2 to avoid false sharing
-  Parallelise PI program using loop construct
-  Find and fix the bugs in the mandelbrot set calculation program.
-  Parallelise linked list program provided in linked.c
-  Parallelise the linked.c program using task construct
-  Parallelise Producer Consumer problem given in prod_cons.c
-  parallelise monte carlo pi program given in pi_mc.c
+  3. Create a parallel version of a program that computes PI using OpenMP parallel construct
+  4. Modify solution in Q2 to avoid false sharing
+  5. Parallelise PI program using loop construct
+  6. Find and fix the bugs in the mandelbrot set calculation program.
+  7. Parallelise linked list program provided in linked.c
+  8. Parallelise the linked.c program using task construct
+  9. Parallelise Producer Consumer problem given in prod_cons.c
+  10. Parallelise monte carlo pi program given in pi_mc.c
 
 CUDA
 
