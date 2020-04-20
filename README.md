@@ -23,20 +23,17 @@ PYTHON
   
 OPENMP
 
-  1.1. WAP to print hello world in c
-  1.2. Improve the program to make use of openmp multithreading
-  
-  2. Create a parallel version of a program that computes PI using OpenMP parallel construct
-  
-  3. Modify Q2 to avoid false sharing
-  
-  4. Parallelise Q2 using loop construct
-  5. Fix bugs in the mandelbrot set calculation program
-  6. Parallelise linked list program in linked.c
-  7. Parallelise linked.c program using task construct
-  8. Parallelise the producer-consumer problem
-  9. Parallelise the Monte Carlo pi program
-  
+  Write a simple program that prints hello world in C
+  Write a hello world program that makes use of OpenMP multithreading
+  Create a parallel version of a program that computes PI using OpenMP parallel construct
+  Modify solution in Q2 to avoid false sharing
+  Parallelise PI program using loop construct
+  Find and fix the bugs in the mandelbrot set calculation program.
+  Parallelise linked list program provided in linked.c
+  Parallelise the linked.c program using task construct
+  Parallelise Producer Consumer problem given in prod_cons.c
+  parallelise monte carlo pi program given in pi_mc.c
+
 CUDA
 
   1. Convert colour image to greyscale
