@@ -40,3 +40,9 @@ CUDA
   2. Parallel algorithm to blur images
   3. Parallel algorithm for tone mapping
   4. Parallel algorithm to remove red eye effect
+
+CILK PLUS
+  
+  1. Write a program to perform vector addition using cilk for. The loop should run for i = 8, 16, 32, 64... Compare the speedup against serial code.
+  2. Implement quick sort using Cilk.
+  3. Install ICC compiler, and experiment with array notations.Benchmark it by increasing the number of threads.
