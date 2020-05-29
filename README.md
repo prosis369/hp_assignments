@@ -50,3 +50,8 @@ CILK PLUS
 ITBB
 
   1. Write a program to perform vector addition.
+
+X10
+
+  1. Write a program to calculate the value of PI.
+  2. Write a program to find the Prefix Sum.
