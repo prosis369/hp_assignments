@@ -55,3 +55,10 @@ X10
 
   1. Write a program to calculate the value of PI.
   2. Write a program to find the Prefix Sum.
+
+OPENCL
+
+  1. Write a program to perform vector addition
+  2. Matrix Multiplication
+
+
