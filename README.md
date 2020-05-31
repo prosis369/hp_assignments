@@ -58,7 +58,10 @@ X10
 
 OPENCL
 
-  1. Write a program to perform vector addition
-  2. Matrix Multiplication
+  1. Write a program to perform vector addition.
+  2. Matrix Multiplication.
 
+C++ AMP
 
+  1. Implement Matrix multiplication in parallel using C++ amp.
+  2. Extend the previous question with tile sizes : 8x8, 16x16, ..
