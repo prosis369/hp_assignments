@@ -65,3 +65,9 @@ C++ AMP
 
   1. Implement Matrix multiplication in parallel using C++ amp.
   2. Extend the previous question with tile sizes : 8x8, 16x16, ..
+
+PTHREAD
+
+  1. Matrix Multiplication.
+  2. Calculate the value of PI.
+  3. Priority
